@@ -177,14 +177,17 @@
         <div id="col2Flex">
             <article class="text shows">
                 <h1>2021 Major Shows</h1>
-                <p>To be announced this summer...</p>
+                <p>Kanye West - Jesus is King</p>
+                <p>Remembering 9/11 with the SC State Marching 101</p>
+                <p>Cinderella</p>
+                
             </article>
             <article class="text officers">
                 <h1>2021 Officers</h1>
                 <p>Commander: <b>Victor Fleifel</b></p>
                 <p>Vice-Commander: <b>Jordan Pixley</b></p>
                 <p>Sergeant Major: <b>Sadie Bates</b></p>
-                <p>Drum Majors: <b> TBD</b></p>
+                <p>Drum Majors: <b> Ashley Leal-Deas, Victor Fleifel, & Jordan Pixley</b></p>
                 <h1>Section Leaders: </h1>
                 <p>Piccolos: <b>Hannah Kadets & Megan Patterson</b></p>
                 <p>Clarinets: <b>Tyrell Fleshman & Natalie Henderson</b></p>
