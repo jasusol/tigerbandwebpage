@@ -47,12 +47,20 @@
   background-position: center; }
 
 #inlineBox4 {
+<<<<<<< HEAD
   background-image: url(https://i.imgur.com/zfP682h.jpg);
+=======
+  background-image: url(https://i.imgur.com/Xpk099p.jpg);
+>>>>>>> 9555ce139bf7b69eb2c9f24a8d16b09c9dd38857
   background-size: cover;
   background-position: center; }
 
 #inlineBox5 {
+<<<<<<< HEAD
   background-image: url(https://i.imgur.com/vr2JzmQ.jpg);
+=======
+  background-image: url(https://i.imgur.com/63FGSnv.jpg);
+>>>>>>> 9555ce139bf7b69eb2c9f24a8d16b09c9dd38857
   background-size: cover;
   background-position: top; }
 
