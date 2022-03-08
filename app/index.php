@@ -32,7 +32,6 @@
 	<label for="mobileMenu" id="menuButton"><span>=</span></label>
 </div>
 
-<label id='mobileScreenShade' for='mobileMenu'></label>
 
 <!-- NAVIGATION-->
 
@@ -170,7 +169,7 @@
              <p>Tiger Band is seeking a dedicated and dynamic colorguard instructor to join our staff for the upcoming season.</p>
              <p>All interested applicants should apply at the link below before March 1.</p>
              <p>GO TIGERS!</p>
-               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScZ9fhyZX44p859OpXXg_CFzRtSN4mr83DUEvABDVL0M9XZHA/viewform?usp=sf_link" class="richLink cta">Tiger Guard Instructor Application</a></p>
+               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScZ9fhyZX44p859OpXXg_CFzRtSN4mr83DUEvABDVL0M9XZHA/viewform?usp=sf_link" class="richLink cta">Tiger Guard <br> Instructor <br> Application</a></p>
          </article>
 
 
