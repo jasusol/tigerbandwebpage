@@ -42,13 +42,13 @@
 
 <!-- PAGE CONTENT-->
 
-<body>
+ <body>
     <!-- FULL SCREEN MAIN VIDEO-->
     <div id="homeFullscrContainer">
         <div id="screenShadeHome"></div>
-        <video id="homeVideoBkg" autoplay loop muted>
+        <!-- <video id="homeVideoBkg" autoplay loop muted>
             <source src="https://d3fdmt0abme096.cloudfront.net/mainLargeCompressed.mp4" type="video/mp4">
-        </video>
+        </video> -->
     </div>
 
     <div class="fullpageTitle">
@@ -163,28 +163,47 @@
     <div id="Col2FlexContent" class="homepage">
        <div id="col1Flex">
 
-         <article class="text">
-             <h1>TIGER GUARD INSTRUCTOR</h1>
-             <img class="articleImg" src='/img/clemson-tiger-band-bc-2017-181.jpg'>
-             <p>Tiger Band is seeking a dedicated and dynamic colorguard instructor to join our staff for the upcoming season.</p>
-             <p>All interested applicants should apply at the link below before March 1.</p>
-             <p>GO TIGERS!</p>
-               <p><a href="https://docs.google.com/forms/d/e/1FAIpQLScZ9fhyZX44p859OpXXg_CFzRtSN4mr83DUEvABDVL0M9XZHA/viewform?usp=sf_link" class="richLink cta">Tiger Guard <br> Instructor <br> Application</a></p>
-         </article>
+         <a href="https://clemsontigerband.shopwindow.io/content/render/cms_landing_page/122e0ebb-5281-4cd6-919d-d9fc9e072904?presentation=web" class="boxWrapper" target="_blank">
+             <article class="text">
+                 <h1>Sign Up Today</h1>
+                 <img class="articleImg" src='/img/CuseAmp.jpg'>
+                 <p>Click here to register with Tiger Band and receive information about what it takes to be a member of Tiger Band.</p>
+                 <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
+             </article>
+         </a>
 
+         <article class="media">
+             <h1>Are You Ready?</h1>
+             <p>Tiger Band plays an integral role in the campus community. Help us continue our mission by becoming a member of Tiger Band in 2022!!</p>
+             <div class="iframeContainer">
+                 <div class="iFrameAspectRatio">
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/X9eSUyyFyhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                 </div>
+             </div>
+
+         </article>
 
 
         </div>
 
         <div id="col2Flex">
 
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7eoFMvhoEbJuNaF0O3rwGgmovwbgmah3PJ13kczYBYrWRtQ/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+              <article class="text">
+                  <h1>Tiger Band Zoom</h1>
+                  <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg'>
+                  <p>Tiger Band will be hosting Zoom sessions on Wednesday, June 29 at 5:00pm and Saturday, July 9 at 1:00pm for interested students.</p>
+                  <p>You'll get a chance to meet the staff, learn more about Tiger Band and Clemson University, and ask any questions you may have about auditions or the organization. Join us! We'd love to meet you!!</p>
+                  <p>Click here to register and to receive the link to the meeting!</p>
+              </article>
+          </a>
 
           <article class="media">
-              <h1>Tiger Band Vlog - Douthit Rag - Season 4, Episode 3</h1>
-              <p>In this episode, enjoy an impromptu concert while waiting for the traffic light, meet The Tiger Guard, The Tiger Dancers, & The Tiger Twirlers, witness the hard work of the Clemson University Drumline, and follow Tiger Band to Syracuse!</p>
+              <h1>Tri-County Tech</h1>
+              <p>Did you know that students at Tri-County Tech can also participate in Tiger Band? Visit the join page for audition details!!</p>
               <div class="iframeContainer">
                   <div class="iFrameAspectRatio">
-                     <iframe width="560" height="315" src="https://www.youtube.com/embed/pdMNWjG4o4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                     <iframe width="560" height="315" src="https://www.youtube.com/embed/NQH7In_Kmq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
               </div>
 
@@ -192,7 +211,7 @@
 
         </div>
     </div>
-</body>
+</body> 
 
 <!-- FOOTER-->
 

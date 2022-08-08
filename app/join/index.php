@@ -60,10 +60,7 @@
     <div class="heading">
         <h4>Audition Information</h4>
     </div>
-        <br>
-        <center><h3><b><u>Tiger Band COVID-19 Response</u></b>
-        <br>
-        <a href="http://tband.people.clemson.edu/contact/">If you are having trouble meeting the audition requirements due to COVID-19 related restrictions, please contact the band office to see if we can help!</center></h3></a>
+
     <div id="auditionBoxUI">
         <a href="/join/winds/" class="boxWrapper">
             <div id="inlineBox1" class="boxUIelement sq white">
@@ -123,11 +120,7 @@
                   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf7AiSHjqK21djzgOLz9HHRgyYtlxVJG-Gtz-iKRsUsrgc9vQ/viewform?usp=sf_link" class="richLink cta">Scholarship Application</a></p>
             </article>
 
-
-        </div>
-
-        <div id="col1Flex">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLScDPzWqHXcaJXTkyfOJhS4NZgz3peMUSawsBo8IIM3Dufx21g/viewform?usp=sf_link/" class="boxWrapper" target="_blank">
+            <a href="https://clemsontigerband.shopwindow.io/content/render/cms_landing_page/122e0ebb-5281-4cd6-919d-d9fc9e072904?presentation=web" class="boxWrapper" target="_blank">
                 <article class="text">
                     <h1>Sign Up Today</h1>
                     <img class="articleImg" src='/img/CuseAmp.jpg'>
@@ -135,6 +128,21 @@
                     <p>You'll get <u><b>EXCLUSIVE</u></b> information and become eligible for <u><b>EARLY REGISTRATION</u></b> to events BEFORE they're released to the public!</p>
                 </article>
             </a>
+
+
+        </div>
+
+        <div id="col1Flex">
+
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7eoFMvhoEbJuNaF0O3rwGgmovwbgmah3PJ13kczYBYrWRtQ/viewform?usp=sf_link" class="boxWrapper" target="_blank">
+              <article class="text">
+                  <h1>Tiger Band Zoom</h1>
+                  <img class="articleImg" src='/img/clemson-tiger-band-fiesta-bowl-2016-734.jpg'>
+                  <p>Tiger Band will be hosting Zoom sessions on Wednesday, June 29 at 5:00pm and Saturday, July 9 at 1:00pm for interested students.</p>
+                  <p>You'll get a chance to meet the staff, learn more about Tiger Band and Clemson University, and ask any questions you may have about auditions or the organization. Join us! We'd love to meet you!!</p>
+                  <p>Click here to register and to receive the link to the meeting!</p>
+              </article>
+          </a>
 
 
                 <article class="text">
@@ -165,7 +173,7 @@
                 <p>Who better to ask about the time commitment involved with Tiger Band than people who are actually in Tiger Band? Hear from Tiger Band students about how they manage their time, school, and other commitments.</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/mJwAG1Pv9GU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/kDJNzT2Kgdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </article>
         </div>
         <div id="col2Flex">
@@ -174,7 +182,7 @@
                 <p>One of the biggest perks of being a member of Tiger Band is being able to travel. Students have had the opportunity to travel all over the country at no cost. Don't miss out on these unforgettable experiences!</p>
                 <div class="iframeContainer">
                     <div class="iFrameAspectRatio">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/BvPYw24x4_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/_Hvob1A9zQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </article>
@@ -185,7 +193,7 @@
                     <p>If the idea of coming to a campus with 26,000 students makes you nervous, Tiger Band can help! You'll be able to move into your dorm a week early, have access to campus before more students get here, and you'll meet 350 friendly, welcoming people with common interests.</p>
                         <div class="iframeContainer">
                         <div class="iFrameAspectRatio">
-                            <iframe width="560" height="315" src="https://www.youtube.com/embed/7XA7r894um8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/2PVWnBEK4HY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 </article>
             </div>
@@ -195,7 +203,7 @@
                   <p>Don't stress about your Tiger Band audition. With our video auditions, you have plenty of time to put your best foot forward. Hear from current Tiger Band members about what it's like to go through the process.</p>
                       <div class="iframeContainer">
                       <div class="iFrameAspectRatio">
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/CZuo9wG0DLE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                          <iframe width="560" height="315" src="https://www.youtube.com/embed/ZRaUtTClYBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
                 </article>
@@ -206,22 +214,10 @@
                   <p>Without weekly competitions, what motivates Tiger Band members to perform at such a high level? Hear from current Tiger Band members about what makes them tick.</p>
                       <div class="iframeContainer">
                       <div class="iFrameAspectRatio">
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/Yus7AVArAzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                </article>
-            </div>
-            <div id="col2Flex">
-                <article class="media">
-                  <h1>Preseason Camp</h1>
-                  <p>Curious about Tiger Band's preseason camp? Learn what it's like to come to campus to prepare for an upcoming season from current Tiger Band members.</p>
-                      <div class="iframeContainer">
-                      <div class="iFrameAspectRatio">
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/P1HyGJ_0150" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-                        </div>
-                    </div>
+                          <iframe width="560" height="315" src="https://www.youtube.com/embed/lQYpzXka3ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </article>
             </div>
 
-    </div>
 
 <!--- FOOTER --->
 
